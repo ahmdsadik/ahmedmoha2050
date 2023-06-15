@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedmoha2050
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web DevelOpment 
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning PHP and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
